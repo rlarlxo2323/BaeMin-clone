@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.124.116.43" id="999aadea-9730-4b15-8e4f-0940affad7cc" keyPath="C:\Users\rlarl\iCloudDrive\대학\22-1학기\라이징캠프\AWS_키\RisingCamp_AWS.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>
