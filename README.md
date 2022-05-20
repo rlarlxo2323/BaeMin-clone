@@ -39,7 +39,7 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 
 ## 기능 및 테스트
 
-Notion에서 확인 가능 -> [Notion](https://maddening-spruce-1ee.notion.site/API-f4e6f38c6ec14312ad76a2c38b92ff6c)
+Notion에서 확인 가능 -> [Notion](https://giri-space.notion.site/2-REST-API-e55c6ad8832449ceadbe83bf495ff3f4)
 
 ## ✨License
 - 본 템플릿의 소유권은 소프트스퀘어드에 있습니다. 본 자료에 대한 상업적 이용 및 무단 복제, 배포 및 변경을 원칙적으로 금지하며 이를 위반할 때에는 형사처벌을 받을 수 있습니다.
