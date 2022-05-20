@@ -17,19 +17,19 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 * Api : KAKAO LOGIN API
 ```
 
-### 설계
+## 설계
 
-#### DB 설계
-![ERD](image/erd.png)<br/>
+### DB 설계
+![ERD](image/ERD.PNG)<br/>
 
 링크 -> [ERD](https://aquerytool.com/aquerymain/index/?rurl=4e0d50a9-1305-4267-ba52-edc547870fa4)<br/>
 패스워드 : 17a6dn <br/>
 
-#### API 명세서<br/>
+### API 명세서<br/>
 
 링크 -> [API 명세서](https://docs.google.com/spreadsheets/d/1sGsCyxm9wlEmrYxr6B_MxS8FlWkzNo8Fp6qbodJkLU8/edit?usp=sharing)<br/>
 
-### 적용 기술
+## 적용 기술
 
 1. AWS EC2, AWS RDS MySQL
 2. DNS 설정 및 HTTPS 적용
@@ -37,7 +37,7 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 4. RESTful API
 5. JWT, OAuth 2.0 (Kakao Login API)
 
-### 기능 및 테스트
+## 기능 및 테스트
 
 Notion에서 확인 가능 -> [Notion](https://maddening-spruce-1ee.notion.site/API-f4e6f38c6ec14312ad76a2c38b92ff6c)
 
