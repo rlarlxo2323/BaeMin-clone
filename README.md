@@ -19,12 +19,15 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 
 ### 설계
 
-- DB 설계 - [ERD](https://drive.google.com/file/d/1oqPVChYGu1tWt1Iw7IIW9FD3q4jZKik2/view?usp=sharing)  
-![ERD](image/erd.png)
+#### DB 설계
+![ERD](image/erd.png)<br/>
 
-- API 명세서  
+링크 -> [ERD](https://aquerytool.com/aquerymain/index/?rurl=4e0d50a9-1305-4267-ba52-edc547870fa4)<br/>
+패스워드 : 17a6dn <br/>
 
-링크에서 확인 -> [API 명세서](https://docs.google.com/spreadsheets/d/1il4jZIhhv6HTboM9OLXG10OvAquY4f6A/edit?usp=sharing&ouid=103941929155283099338&rtpof=true&sd=true)
+#### API 명세서<br/>
+
+링크 -> [API 명세서](https://docs.google.com/spreadsheets/d/1sGsCyxm9wlEmrYxr6B_MxS8FlWkzNo8Fp6qbodJkLU8/edit?usp=sharing)<br/>
 
 ### 적용 기술
 
