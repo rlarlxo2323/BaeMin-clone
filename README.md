@@ -35,7 +35,7 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 2. DNS 설정 및 HTTPS 적용
 3. Spring Boot, JdbcTemplate
 4. RESTful API
-5. JWT, OAuth 2.0 (Kakao Login API)
+5. JWT, OAuth 2.0 (NAVER Login API)
 
 ## 기능 및 테스트
 
