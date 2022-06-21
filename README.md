@@ -14,7 +14,7 @@ DB 설계, AWS 서버 생성 및 도메인 연결, HTTPS 적용, API 설계, 로
 * IDE :  Intellij, DataGrip
 * Backend Server : Spring Boot
 * Api Test Tool : Insomnia
-* Api : KAKAO LOGIN API
+* Api : NAVER LOGIN API
 ```
 
 ## 설계
